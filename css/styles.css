@@ -275,6 +275,10 @@ li {
 /*** Mobile ***/
 @media (max-width: 990px) {
 
+    marquee {
+        display: none;
+    }
+
     .heading-float {
         padding-top: 6rem;        
     }
