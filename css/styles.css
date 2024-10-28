@@ -260,6 +260,17 @@ li {
     border-radius: 5%;
 }
 
+.sponsor-marquee {
+    height: 40px;
+    background-color: #1A1C20;
+    color: #F58225;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.sponsor-marquee-item {
+    padding-left: 2rem;
+}
 
 /*** Mobile ***/
 @media (max-width: 990px) {
